@@ -1,0 +1,4 @@
+Running: xsim.dir/elevator_controller_fsm_tb_behav/xsimk.exe -simmode gui -wdb elevator_controller_fsm_tb_behav.wdb -simrunnum 0 -socket 62229
+Design successfully loaded
+Design Loading Memory Usage: 6664 KB (Peak: 6664 KB)
+Design Loading CPU Usage: 15 ms
